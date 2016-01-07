@@ -1,0 +1,38 @@
+# top level stuff you probably don't need to touch
+highlighter: pygments
+markdown: rdiscount
+rdiscount:
+  extensions: [smart]
+permalink: /:title.html
+paginate: 5
+gems: [jekyll-paginate]
+port: 4000
+safe: true
+
+
+# edit here to achieve your personal greatness
+url: http://lewellent.github.io/
+website: lewellent.github.io
+website_full: http://lewellent.github.io/
+baseurl:
+title: Todd Lewellen
+author: Todd Lewellen
+description: Personal blog and resume
+avatar: profile.png
+email: lewellent.dev@gmail.com
+github: lewellent
+linkedin: toddlewellen
+tel: +1 716 397 9777
+tel_full: +17163979777
+#address: 103 Domino Ct.
+city: Winchester, VA
+#country: USA
+google_analytics: UA-69300817-1
+
+#Comment out if you don't want disqus 
+#disqus: username
+google_analytics: UA-72160112-1
+
+
+# needed for travis-ci build
+exclude: [vendor]
