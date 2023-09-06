@@ -2,7 +2,6 @@
 export default defineNuxtConfig({
   ssr: true,
   app: {
-    buildAssetsDir: 'assets',
     // baseURL: '/lewellent.github.io/',
     head: {
       charset: 'utf-16',
