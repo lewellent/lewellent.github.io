@@ -2,7 +2,8 @@
 export default defineNuxtConfig({
   ssr: true,
   app: {
-    buildAssetsDir: '_nuxt',
+    buildAssetsDir: 'assets',
+    baseURL: '/lewellent.github.io/',
     head: {
       charset: 'utf-16',
       viewport: 'width=device-width,initial-scale=1',
