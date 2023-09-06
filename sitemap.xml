@@ -1,34 +1,96 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/lewellent.github.io/__sitemap__/style.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/__sitemap__/style.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://lewellent.github.io/lewellent.github.io</loc>
+        <loc>https://lewellent.github.io/</loc>
         <image:image>
             <image:loc>https://lewellent.github.io/_ipx/_/blogs-img/blog1.webp</image:loc>
         </image:image>
-        <lastmod>2023-09-06T14:31:14+00:00</lastmod>
+        <lastmod>2023-09-06T14:45:21+00:00</lastmod>
     </url>
     <url>
-        <loc>https://lewellent.github.io/lewellent.github.io/about</loc>
+        <loc>https://lewellent.github.io/about</loc>
         <image:image>
             <image:loc>https://placehold.co/600x400?text=TODO</image:loc>
         </image:image>
-        <lastmod>2023-09-06T14:31:14+00:00</lastmod>
+        <lastmod>2023-09-06T14:45:21+00:00</lastmod>
     </url>
     <url>
-        <loc>https://lewellent.github.io/lewellent.github.io/blogs</loc>
-        <lastmod>2023-09-06T14:31:14+00:00</lastmod>
+        <loc>https://lewellent.github.io/blogs</loc>
+        <lastmod>2023-09-06T14:45:21+00:00</lastmod>
     </url>
     <url>
-        <loc>https://lewellent.github.io/lewellent.github.io/categories</loc>
-        <lastmod>2023-09-06T14:31:14+00:00</lastmod>
-    </url>
-    <url>
-        <lastmod>2023-09-06T10:25:04+00:00</lastmod>
-        <loc>https://lewellent.github.io/lewellent.github.io/blogs/article1</loc>
+        <loc>https://lewellent.github.io/categories</loc>
+        <lastmod>2023-09-06T14:45:21+00:00</lastmod>
     </url>
     <url>
         <lastmod>2023-09-06T10:25:04+00:00</lastmod>
-        <loc>https://lewellent.github.io/lewellent.github.io/blogs/article2</loc>
+        <loc>https://lewellent.github.io/blogs/article1</loc>
+        <image:image>
+            <image:loc>https://lewellent.github.io/_ipx/_/blogs-img/blog1.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <lastmod>2023-09-06T10:25:04+00:00</lastmod>
+        <loc>https://lewellent.github.io/blogs/article2</loc>
+        <image:image>
+            <image:loc>https://lewellent.github.io/_ipx/_/blogs-img/blog1.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <lastmod>2023-09-06T14:45:21+00:00</lastmod>
+        <loc>https://lewellent.github.io/categories/django</loc>
+        <image:image>
+            <image:loc>https://lewellent.github.io/_ipx/_/blogs-img/blog1.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <lastmod>2023-09-06T14:45:21+00:00</lastmod>
+        <loc>https://lewellent.github.io/categories/docker</loc>
+    </url>
+    <url>
+        <lastmod>2023-09-06T14:45:21+00:00</lastmod>
+        <loc>https://lewellent.github.io/categories/engineering-management</loc>
+    </url>
+    <url>
+        <lastmod>2023-09-06T14:45:21+00:00</lastmod>
+        <loc>https://lewellent.github.io/categories/git</loc>
+    </url>
+    <url>
+        <lastmod>2023-09-06T14:45:21+00:00</lastmod>
+        <loc>https://lewellent.github.io/categories/javascript</loc>
+        <image:image>
+            <image:loc>https://lewellent.github.io/_ipx/_/blogs-img/blog1.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <lastmod>2023-09-06T14:45:21+00:00</lastmod>
+        <loc>https://lewellent.github.io/categories/kubernetes</loc>
+    </url>
+    <url>
+        <lastmod>2023-09-06T14:45:21+00:00</lastmod>
+        <loc>https://lewellent.github.io/categories/nuxt</loc>
+        <image:image>
+            <image:loc>https://lewellent.github.io/_ipx/_/blogs-img/blog1.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <lastmod>2023-09-06T14:45:21+00:00</lastmod>
+        <loc>https://lewellent.github.io/categories/python</loc>
+        <image:image>
+            <image:loc>https://lewellent.github.io/_ipx/_/blogs-img/blog1.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <lastmod>2023-09-06T14:45:21+00:00</lastmod>
+        <loc>https://lewellent.github.io/categories/typescript</loc>
+    </url>
+    <url>
+        <lastmod>2023-09-06T14:45:21+00:00</lastmod>
+        <loc>https://lewellent.github.io/categories/vue</loc>
+    </url>
+    <url>
+        <lastmod>2023-09-06T14:45:21+00:00</lastmod>
+        <loc>https://lewellent.github.io/categories/vuex</loc>
     </url>
 </urlset>
 <!-- XML Sitemap generated by Nuxt Simple Sitemap V3.1.4 -->
