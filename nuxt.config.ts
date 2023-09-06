@@ -2,7 +2,7 @@
 export default defineNuxtConfig({
   ssr: true,
   app: {
-    // baseURL: '/lewellent.github.io/',
+    baseURL: '',
     head: {
       charset: 'utf-16',
       viewport: 'width=device-width,initial-scale=1',
